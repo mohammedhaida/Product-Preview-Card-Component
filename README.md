@@ -32,7 +32,7 @@ Users are able to:
 ### Links
 
 - Solution URL: [Solution URL](https://github.com/mohammedhaida/Product-Preview-Card-Component)
-- Live Site URL: [Live Site](https://live-site-url.com)
+- Live Site URL: [Live Site](https://mohammedhaida.github.io/Product-Preview-Card-Component/)
 
 ## My process
 
